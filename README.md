@@ -17,15 +17,19 @@ Creating a dedicated computer application with "quick search", "strictly typed d
 - Option to input user contents as parameters for the respective document such as date, place, main content, and any additional prefix for it's numbering (automatically handled in the backend).
 
   
-- Option to index/search files in related types.
+- Option to index/search documents in related types.
+
+    
+- Option to index/search standard document type files.
+  
 
 ## 2. Backend Functionality:
 
 - Storing standard document types in [LaTex](https://www.latex-project.org/) format.
   
-- Generating final output as PDFs.
+- Generating final output documents as PDF.
   
-- Saving the original contents of related documents in pairs of assign file numbers.
+- Saving the user given contents of related documents in pairs of assigned index numbers.
   
 - Handling automatic indexing and entry of documents into a table as a CSV file.
 
