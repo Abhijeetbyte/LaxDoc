@@ -4,15 +4,15 @@ A computer application for small and micro enterprises to manage "frequently use
 
 All these documents have a "common" format, and are used each time with some variations in the overall content such as date, time, and writing material or subject.
 
-Recreating entire documents manually or reusing them by editing them, using software like MS Word, etc. is practical only for small numbers.
+Recreating entire documents manually or reusing them by editing it, using software like MSword, etc. is practical only for small numbers.
 
-Using this method, it lacks quick searches like files by "date" or "short description". Also managing multiple pages inside a single word file will increase the risk of mismanagement and file corruption or sometimes software incompatibility.
+Using this method, it lacks **quick searches** like files by "date" or "short description". Also managing multiple pages inside a single word file, increases the risk of mismanagement and file corruption or sometimes software incompatibility.
 
 
 **To do:**
 
 It would be a good idea to create a dedicated computer application to serve this purpose,
-with features like, quick search, strictly typed document formats using [LaTex](https://www.latex-project.org/), light weight files and auto indexing, storage and management.
+with quick search, strictly typed document formats using [LaTex](https://www.latex-project.org/), light weight files, auto indexing, storage and management features.
 
 
 
