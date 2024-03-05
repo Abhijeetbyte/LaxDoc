@@ -1,4 +1,4 @@
-# LaxDoc
+j# LaxDoc
 
 A computer application for small and micro enterprises to manage "frequently used small documents" such as letters, board resolutions, meeting minutes, work reports.
 
@@ -20,7 +20,7 @@ With quick search, strictly typed document formats, light weight files and auto 
 
 a. Option to create new file type (letter, meeting minutes, work report), it accepts desired standard format given by user as LaTex file.
 
-b. Option to take user input parameters for the respective file. Like date, location, main content, any prefix for file numbering (auto.handled in backend).
+b. Option to take user input parameters for the respective file. Like date, place, main content, any prefix for file numbering (auto.handled in backend).
 
 c. Option to generate, new files for respective types, according to given contents.
 
