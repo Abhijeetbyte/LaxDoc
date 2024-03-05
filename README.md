@@ -14,7 +14,7 @@ Creating a dedicated computer application with "quick search", "strictly typed d
 
 - Option to generate new documents for respective file types based on given contents.
     
-- Option to input user contents as parameters for the respective documents, such as date, place, main content, and any prefix for it's numbering (automatically handled in the backend).
+- Option to input user contents as parameters for the respective document such as date, place, main content, and any additional prefix for it's numbering (automatically handled in the backend).
 
   
 - Option to index/search files in related types.
