@@ -11,17 +11,19 @@ Creating a dedicated computer application with quick search, strictly typed docu
 ## 1. UI Features:
 
 - Option to create new file types (letter, meeting minutes, work report) using the desired standard format provided by the user as a LaTex file.
-  
-- Option to input user parameters for the respective file, such as date, place, main content, and any prefix for file numbering (automatically handled in the backend).
-- Option to generate new files for respective file types based on given contents.
+
+- Option to generate new documents for respective file types based on given contents.
+    
+- Option to input user contents as parameters for the respective documents, such as date, place, main content, and any prefix for it's numbering (automatically handled in the backend).
+
   
 - Option to index/search files in related types.
 
 ## 2. Backend Functionality:
 
-- Storing standard file types in [LaTex](https://www.latex-project.org/)format.
+- Storing standard document types in [LaTex](https://www.latex-project.org/) format.
   
-- Generating output files as PDFs.
+- Generating final output as PDFs.
   
 - Saving the original contents of related documents in pairs of assign file numbers.
   
@@ -29,12 +31,16 @@ Creating a dedicated computer application with quick search, strictly typed docu
 
 ## 3. Additional Features:
 
-- Edit and delete a file (data and its index).
-- Option to generate the original file at any time. For example, if any file is found in search, then there is an option to regenerate this file again.
+- Edit and delete document types (standard format)
+
+- Edit and delete a document (data and its index/numbering).
+  
+- Option to generate the original document at any time. For example, if a document is searched and found, then there is an option to regenerate it again as PDF.
 
 ## 4. Additional Information:
 
-- The CSV file in the backend stores the file index number paired with the date and a short description of the file.
-- Main content files and other files are stored as .txt files.
+- The CSV file in the backend stores the document index number paired with the date and a short description of the it.
+  
+- Perticular content of documents and other files are stored as .txt files.
 
 **Concept reference:** [MYPmanager](https://github.com/Abhijeetbyte/MYPmanager) - For visuals and a clearer understanding.
