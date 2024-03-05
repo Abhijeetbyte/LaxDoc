@@ -11,8 +11,8 @@ Using this method, it lacks quick searches like files by "date" or "short descri
 
 **To do:**
 
-It would be a good idea to create a dedicated computer application to serve this purpose.
-With quick search, strictly typed document formats, light weight files and auto storage and management.
+It would be a good idea to create a dedicated computer application to serve this purpose,
+with features like, quick search, strictly typed document formats using [LaTex](https://www.latex-project.org/), light weight files and auto indexing, storage and management.
 
 
 
