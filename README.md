@@ -1,66 +1,40 @@
 # LaxDoc
 
-A computer application for small and micro enterprises to manage "frequently used small documents" such as letters, board resolutions, meeting minutes, work reports.
+LaxDoc is a computer application designed for small and micro enterprises to manage frequently used small documents such as letters, board resolutions, meeting minutes, and work reports. These documents follow a common format but require variations in content such as date, time, and subject matter.
 
-All these documents have a "common" format, and are used each time with some variations in the overall content such as date, time, and writing material or subject.
+Recreating entire documents manually or reusing the same document by editing it, using software like MS Word, is practical only for small numbers. However, this method lacks quick search capabilities, like searching files by date or short description. Additionally, managing multiple pages inside a single Word file increases the risk of mismanagement, file corruption, or software incompatibility.
 
-Recreating entire documents manually or reusing same document by editing it, using software like MSword, etc. is practical only for small numbers.
+**To-do:**
 
-Using this method, it lacks **quick searches** like files by "date" or "short description". Also managing multiple pages inside a single word file, increases the risk of mismanagement and file corruption or sometimes software incompatibility.
+Creating a dedicated computer application with quick search, strictly typed document formats using LaTex, lightweight files, auto indexing, storage, and management features would be beneficial.
 
+## 1. UI Features:
 
-**To do:**
+- Option to create new file types (letter, meeting minutes, work report) using the desired standard format provided by the user as a LaTex file.
+  
+- Option to input user parameters for the respective file, such as date, place, main content, and any prefix for file numbering (automatically handled in the backend).
+- Option to generate new files for respective file types based on given contents.
+  
+- Option to index/search files in related types.
 
-It would be a good idea to create a dedicated computer application to serve this purpose,
-with quick search, strictly typed document formats using [LaTex](https://www.latex-project.org/), light weight files, auto indexing, storage and management features.
+## 2. Backend Functionality:
 
+- Storing standard file types in [LaTex](https://www.latex-project.org/)format.
+  
+- Generating output files as PDFs.
+  
+- Saving the original contents of related documents in pairs of assign file numbers.
+  
+- Handling automatic indexing and entry of documents into a table as a CSV file.
 
+## 3. Additional Features:
 
-## 1. The UI window of this application has the following features:
-
-a. Option to create new file type (letter, meeting minutes, work report), it accepts desired standard format given by user as LaTex file.
-
-b. Option to take user input parameters for the respective file. Like date, place, main content, any prefix for file numbering (auto.handled in backend).
-
-c. Option to generate, new files for respective types, according to given contents.
-
-d.  Option to index/search files in related types.
-
-
-
-
-## 2. The backend of the application handles.
-
-a. Storing standard file types in LaTex.
-
-b. Outfile is being generated as .pdf
-
-c. Saving the original contents of related files in pairs of file numbers.
-
-d. Handle automatic indexing and entry of files into Table as CSV file.
-
-
-
-
-## 3. Additional features :
-
-a.Edit and delete a file (data and its index)
-
-b. Option to generate the original file at any time e.g. if any file is found in search, then there is option to generate this file again.
-
-
-
+- Edit and delete a file (data and its index).
+- Option to generate the original file at any time. For example, if any file is found in search, then there is an option to regenerate this file again.
 
 ## 4. Additional Information:
 
-a. The CSV file in the backend stores the file index number in pair with the date and a short description of the file.
+- The CSV file in the backend stores the file index number paired with the date and a short description of the file.
+- Main content files and other files are stored as .txt files.
 
-b. Main content file and other files are stored as .text file
-
-
-
-<br/>
-
-**Concept reference**: https://github.com/Abhijeetbyte/MYPmanager
-Just for visuals and for a more clear image in mind.
-.
+**Concept reference:** [MYPmanager](https://github.com/Abhijeetbyte/MYPmanager) - For visuals and a clearer understanding.
