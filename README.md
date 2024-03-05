@@ -61,4 +61,6 @@ b. Main content file and other files are stored as .text file
 
 <br/>
 
+**Concept reference**: https://github.com/Abhijeetbyte/MYPmanager
+Just for visuals and for a more clear image in mind.
 .
