@@ -4,7 +4,7 @@ A computer application for small and micro enterprises to manage "frequently use
 
 All these documents have a "common" format, and are used each time with some variations in the overall content such as date, time, and writing material or subject.
 
-Recreating entire documents manually or reusing them by editing it, using software like MSword, etc. is practical only for small numbers.
+Recreating entire documents manually or reusing same document by editing it, using software like MSword, etc. is practical only for small numbers.
 
 Using this method, it lacks **quick searches** like files by "date" or "short description". Also managing multiple pages inside a single word file, increases the risk of mismanagement and file corruption or sometimes software incompatibility.
 
