@@ -1,12 +1,12 @@
 # LaxDoc
 
-LaxDoc is a computer application designed for small and micro enterprises to manage frequently used small documents such as letters, board resolutions, meeting minutes, and work reports. These documents follow a common format but require variations in content such as date, time, and subject matter.
+LaxDoc is a computer application designed for small and micro enterprises to manage "frequently used small documents" such as letters, board resolutions, meeting minutes, and work reports. These documents follow a common format but require variations in content such as date, time, and subject matter.
 
 Recreating entire documents manually or reusing the same document by editing it, using software like MS Word, is practical only for small numbers. However, this method lacks quick search capabilities, like searching files by date or short description. Additionally, managing multiple pages inside a single Word file increases the risk of mismanagement, file corruption, or software incompatibility.
 
 **To-do:**
 
-Creating a dedicated computer application with quick search, strictly typed document formats using LaTex, lightweight files, auto indexing, storage, and management features would be beneficial.
+Creating a dedicated computer application with "quick search", "strictly typed document formats" using LaTex, lightweight files, auto indexing, storage, and management features would be beneficial.
 
 ## 1. UI Features:
 
