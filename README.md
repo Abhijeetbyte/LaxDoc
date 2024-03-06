@@ -10,7 +10,7 @@ Creating a dedicated computer application with "quick search", "strictly typed d
 
 ## 1. UI Features:
 
-- Option to create new file types (letter, meeting minutes, work report) using the desired standard format provided by the user as a LaTex file.
+- Option to create new document types (letter, meeting minutes, work report) using the desired standard format provided by the user as a LaTex file.
 
 - Option to generate new documents for respective file types based on given contents.
     
