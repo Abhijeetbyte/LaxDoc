@@ -18,7 +18,7 @@ Creating a dedicated computer application with "quick search", "strictly typed d
   
 - Option to index/search previously generated documents.
 
-- Option to index/search  standard/template type files.
+- Option to index/search  standard/template files.
 
 - Option to regenerate the original document at any time. If the template and main contents files have not been deleted.
   
