@@ -27,9 +27,9 @@ Creating a dedicated computer application with "quick search", "strictly typed d
 
 - Storing templates files in [LaTex](https://www.latex-project.org/) format.
   
-- Generating final output documents as PDF.
+- Generating final output documents as PDF based on user inputs.
   
-- Saving the user given contents of related documents in pairs of assigned index numbers (auto handle in backend) and respective template type.
+- Saving the user given contents of a document in pairs of assigned index numbers (auto handle in backend) and corresponding template type.
   
 - Automatic indexing and entry of documents into tabular form as CSV.
 
@@ -42,7 +42,7 @@ Creating a dedicated computer application with "quick search", "strictly typed d
 
 ## 4. Additional Information:
 
-- The CSV file in the backend stores the document index number paired with the date, short description (asked by user while saving), information of its main content and respective template type used.
+- The CSV file in the backend stores the document index number paired with the date, short description (asked by user while saving), information of its main content and corresponding template type used.
   
 - Perticular content of documents and other files are stored as .txt files.
 
