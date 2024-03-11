@@ -42,6 +42,8 @@ Creating a dedicated computer application with "quick search", "strictly typed d
 
 ## 4. Additional Information:
 
+- "Dynamic Document Configuration Function" is a  document index allocation function, used for automatically assigning documents it's unique index/entry addresses. It can operate on numbering system given by the user (date/prefix/number, etc.) also on the the default system, which is based on the document type, date, sequence and other parameters.
+
 - The CSV file in the backend stores the document index number paired with the date, short description (asked by user while saving), information of its main content and corresponding template type used.
   
 - Perticular content of documents and other files are stored as .txt files.
